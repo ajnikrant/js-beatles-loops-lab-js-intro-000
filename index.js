@@ -38,7 +38,7 @@ function iLoveTheBeatles(num) {
   let otherArray = [];
   //otherArray.push("I love the Beatles!");
 
-  let i = 7;
+  let i = num;
   do {
     otherArray.push("I love the Beatles!");
       ++i;
